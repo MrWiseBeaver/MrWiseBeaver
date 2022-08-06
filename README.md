@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Łukasz Smurawski!
 
-- 🔭 I’m currently working on Car Infotament System
+- 🔭 I’m currently working on [Car Infotament System](https://github.com/MrWiseBeaver/Car-Infotament-System)
 - 🌱 I’m currently learning Qt5
 - 🤔 I’m looking for help with Qt5 Map plugins
 - 📫 How to reach me: 
